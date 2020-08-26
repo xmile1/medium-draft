@@ -2214,10 +2214,9 @@ draft-convert@^2.0.0:
     immutable "~3.7.4"
     invariant "^2.2.1"
 
-draft-js@^0.10.0:
+"draft-js@git://github.com/xmile1/draft-js.git#version-10-android-input-fix":
   version "0.10.5"
-  resolved "https://registry.yarnpkg.com/draft-js/-/draft-js-0.10.5.tgz#bfa9beb018fe0533dbb08d6675c371a6b08fa742"
-  integrity sha512-LE6jSCV9nkPhfVX2ggcRLA4FKs6zWq9ceuO/88BpXdNCS7mjRTgs0NsV6piUCJX9YxMsB9An33wnkMmU2sD2Zg==
+  resolved "git://github.com/xmile1/draft-js.git#4a9b8bbefcc9e9faed2459b50b3a5d3b7a33c7fc"
   dependencies:
     fbjs "^0.8.15"
     immutable "~3.7.4"

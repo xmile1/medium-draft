@@ -29,7 +29,7 @@
   "author": "Brijesh Bittu <brijeshb42@gmail.com> (http://bitwiser.in/)",
   "license": "MIT",
   "dependencies": {
-    "draft-js": "xmile1/draft-js#version-10-android-input-fix",
+    "draft-js": "git://github.com/xmile1/draft-js.git#version-10-android-input-fix",
     "immutable": "^3.7.6",
     "react-transition-group": "^2.5.0"
   },
